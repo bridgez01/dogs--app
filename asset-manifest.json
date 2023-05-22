@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7457b018.css",
+    "main.js": "/static/js/main.dfdf09af.js",
+    "static/js/787.4e8da860.chunk.js": "/static/js/787.4e8da860.chunk.js",
+    "static/media/Airbnb-logo.jpg": "/static/media/Airbnb-logo.22a6a7d23e5d6d11f568.jpg",
+    "index.html": "/index.html",
+    "main.7457b018.css.map": "/static/css/main.7457b018.css.map",
+    "main.dfdf09af.js.map": "/static/js/main.dfdf09af.js.map",
+    "787.4e8da860.chunk.js.map": "/static/js/787.4e8da860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7457b018.css",
+    "static/js/main.dfdf09af.js"
+  ]
+}
